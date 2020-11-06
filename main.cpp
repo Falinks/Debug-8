@@ -2,7 +2,8 @@
 #include <vector>
 using namespace std;
 class Mammals {
-  private:
+  //I changed this from public to private
+  public:
     string name;
     string location;
     // Set function
